@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Testscripts.Homepage" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-09-02T13:45:43" hostname="USABOS250936L" time="41.709">
+  <properties/>
+  <testcase name="Loginpage[0](non-restricted user@gmail.com, non-restricted)" classname="Testscripts.Homepage" time="20.031"/>
+  <testcase name="Loginpage[1](restricted user@gmail.com, restricted)" classname="Testscripts.Homepage" time="21.675"/>
+  <system-out><![CDATA[chrome
+chrome
+QA Click Academy | Selenium,Jmeter,SoapUI,Appium,Database testing,QA Training Academy
+Test pass
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 85.0.4183.87 (cd6713ebf92fa1cacc0f1a598df280093af0c5d7-refs/branch-heads/4183@{#1689}) on port 30773
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Starting ChromeDriver 85.0.4183.87 (cd6713ebf92fa1cacc0f1a598df280093af0c5d7-refs/branch-heads/4183@{#1689}) on port 32135
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Sep 02, 2020 8:46:06 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>

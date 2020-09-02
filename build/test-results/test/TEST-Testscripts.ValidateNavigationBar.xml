@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Testscripts.ValidateNavigationBar" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-09-02T13:45:18" hostname="USABOS250936L" time="1.095">
+  <properties/>
+  <testcase name="Mainpage" classname="Testscripts.ValidateNavigationBar" time="1.095"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

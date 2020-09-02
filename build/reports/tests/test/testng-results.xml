@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+    <line>
+      <![CDATA[Test Started]]>
+    </line>
+    <line>
+      <![CDATA[Driver is Initiated]]>
+    </line>
+    <line>
+      <![CDATA[Homepage]]>
+    </line>
+    <line>
+      <![CDATA[Test Started]]>
+    </line>
+    <line>
+      <![CDATA[Test Started]]>
+    </line>
+    <line>
+      <![CDATA[Header is Verified]]>
+    </line>
+    <line>
+      <![CDATA[Test Passed]]>
+    </line>
+    <line>
+      <![CDATA[Test Started]]>
+    </line>
+    <line>
+      <![CDATA[Title is Verified]]>
+    </line>
+    <line>
+      <![CDATA[Test Passed]]>
+    </line>
+    <line>
+      <![CDATA[Contact is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Test Passed]]>
+    </line>
+    <line>
+      <![CDATA[Test Passed]]>
+    </line>
+    <line>
+      <![CDATA[Test Started]]>
+    </line>
+    <line>
+      <![CDATA[Login is Verified]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='C:\Users\gunjan.gandhi\IdeaProjects\Demo\src\test\java\test-output\screenshots\WebServices Testing using SoapUI20200902_084602.png'height='400' width='400'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[Forgot link is Sent]]>
+    </line>
+    <line>
+      <![CDATA[Test Passed]]>
+    </line>
+    <line>
+      <![CDATA[Test Started]]>
+    </line>
+    <line>
+      <![CDATA[Login is Verified]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src='C:\Users\gunjan.gandhi\IdeaProjects\Demo\src\test\java\test-output\screenshots\WebServices Testing using SoapUI20200902_084621.png'height='400' width='400'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[Forgot link is Sent]]>
+    </line>
+    <line>
+      <![CDATA[Test Passed]]>
+    </line>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="102202" started-at="2020-09-02T08:44:45 CDT" finished-at="2020-09-02T08:46:27 CDT">
+    <groups>
+    </groups>
+    <test name="ValidateTitle" duration-ms="51271" started-at="2020-09-02T08:44:45 CDT" finished-at="2020-09-02T08:45:36 CDT">
+      <class name="Testscripts.ValidateTitle">
+        <test-method status="PASS" signature="initialization()[pri:0, instance:Testscripts.ValidateTitle@bfdf5627]" name="initialization" is-config="true" duration-ms="33087" started-at="2020-09-02T08:44:45 CDT" finished-at="2020-09-02T08:45:18 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method status="PASS" signature="ValidateHeader()[pri:0, instance:Testscripts.ValidateTitle@bfdf5627]" name="ValidateHeader" duration-ms="809" started-at="2020-09-02T08:45:18 CDT" finished-at="2020-09-02T08:45:19 CDT">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Started]]>
+            </line>
+            <line>
+              <![CDATA[Header is Verified]]>
+            </line>
+            <line>
+              <![CDATA[Test Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidateHeader -->
+        <test-method status="PASS" signature="ValidateTitle()[pri:0, instance:Testscripts.ValidateTitle@bfdf5627]" name="ValidateTitle" duration-ms="203" started-at="2020-09-02T08:45:19 CDT" finished-at="2020-09-02T08:45:19 CDT">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Started]]>
+            </line>
+            <line>
+              <![CDATA[Title is Verified]]>
+            </line>
+            <line>
+              <![CDATA[Test Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidateTitle -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Testscripts.ValidateTitle@bfdf5627]" name="teardown" is-config="true" duration-ms="17093" started-at="2020-09-02T08:45:19 CDT" finished-at="2020-09-02T08:45:36 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Testscripts.ValidateTitle -->
+    </test> <!-- ValidateTitle -->
+    <test name="Test1" duration-ms="52611" started-at="2020-09-02T08:44:45 CDT" finished-at="2020-09-02T08:45:37 CDT">
+      <class name="Testscripts.Test1">
+        <test-method status="PASS" signature="Demo()[pri:0, instance:Testscripts.Test1@16df18f6]" name="Demo" duration-ms="52560" started-at="2020-09-02T08:44:45 CDT" finished-at="2020-09-02T08:45:37 CDT">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Started]]>
+            </line>
+            <line>
+              <![CDATA[Test Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Demo -->
+      </class> <!-- Testscripts.Test1 -->
+    </test> <!-- Test1 -->
+    <test name="ValidateNavigationBar" duration-ms="61788" started-at="2020-09-02T08:44:45 CDT" finished-at="2020-09-02T08:45:47 CDT">
+      <class name="Testscripts.ValidateNavigationBar">
+        <test-method status="PASS" signature="initialization()[pri:0, instance:Testscripts.ValidateNavigationBar@7407ad48]" name="initialization" is-config="true" duration-ms="33086" started-at="2020-09-02T08:44:45 CDT" finished-at="2020-09-02T08:45:18 CDT">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver is Initiated]]>
+            </line>
+            <line>
+              <![CDATA[Homepage]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method status="PASS" signature="Mainpage()[pri:0, instance:Testscripts.ValidateNavigationBar@7407ad48]" name="Mainpage" duration-ms="1095" started-at="2020-09-02T08:45:18 CDT" finished-at="2020-09-02T08:45:19 CDT">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Started]]>
+            </line>
+            <line>
+              <![CDATA[Contact is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Test Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Mainpage -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Testscripts.ValidateNavigationBar@7407ad48]" name="teardown" is-config="true" duration-ms="27592" started-at="2020-09-02T08:45:19 CDT" finished-at="2020-09-02T08:45:47 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Testscripts.ValidateNavigationBar -->
+    </test> <!-- ValidateNavigationBar -->
+    <test name="Homepage" duration-ms="102202" started-at="2020-09-02T08:44:45 CDT" finished-at="2020-09-02T08:46:27 CDT">
+      <class name="Testscripts.Homepage">
+        <test-method status="PASS" signature="Initialization()[pri:0, instance:Testscripts.Homepage@dc765dbd]" name="Initialization" is-config="true" duration-ms="58253" started-at="2020-09-02T08:44:45 CDT" finished-at="2020-09-02T08:45:43 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initialization -->
+        <test-method status="PASS" signature="Loginpage(java.lang.String, java.lang.String)[pri:0, instance:Testscripts.Homepage@dc765dbd]" name="Loginpage" duration-ms="20031" started-at="2020-09-02T08:45:43 CDT" data-provider="getData" finished-at="2020-09-02T08:46:03 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[non-restricted user@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[non-restricted]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test Started]]>
+            </line>
+            <line>
+              <![CDATA[Login is Verified]]>
+            </line>
+            <line>
+              <![CDATA[<br><img src='C:\Users\gunjan.gandhi\IdeaProjects\Demo\src\test\java\test-output\screenshots\WebServices Testing using SoapUI20200902_084602.png'height='400' width='400'/><br>]]>
+            </line>
+            <line>
+              <![CDATA[Forgot link is Sent]]>
+            </line>
+            <line>
+              <![CDATA[Test Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Loginpage -->
+        <test-method status="PASS" signature="Loginpage(java.lang.String, java.lang.String)[pri:0, instance:Testscripts.Homepage@dc765dbd]" name="Loginpage" duration-ms="21675" started-at="2020-09-02T08:46:03 CDT" data-provider="getData" finished-at="2020-09-02T08:46:25 CDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[restricted user@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[restricted]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test Started]]>
+            </line>
+            <line>
+              <![CDATA[Login is Verified]]>
+            </line>
+            <line>
+              <![CDATA[<br><img src='C:\Users\gunjan.gandhi\IdeaProjects\Demo\src\test\java\test-output\screenshots\WebServices Testing using SoapUI20200902_084621.png'height='400' width='400'/><br>]]>
+            </line>
+            <line>
+              <![CDATA[Forgot link is Sent]]>
+            </line>
+            <line>
+              <![CDATA[Test Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Loginpage -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Testscripts.Homepage@dc765dbd]" name="teardown" is-config="true" duration-ms="2166" started-at="2020-09-02T08:46:25 CDT" finished-at="2020-09-02T08:46:27 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Testscripts.Homepage -->
+    </test> <!-- Homepage -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

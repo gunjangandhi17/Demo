@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Testscripts.ValidateTitle" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-09-02T13:45:18" hostname="USABOS250936L" time="1.074">
+  <properties/>
+  <testcase name="ValidateHeader" classname="Testscripts.ValidateTitle" time="0.809"/>
+  <testcase name="ValidateTitle" classname="Testscripts.ValidateTitle" time="0.203"/>
+  <system-out><![CDATA[Test pass
+Test pass
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

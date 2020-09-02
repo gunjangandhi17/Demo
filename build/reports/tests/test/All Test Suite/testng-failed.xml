@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [All Test Suite]" parallel="tests">
+  <test thread-count="5" verbose="0" name="ValidateNavigationBar(failed)" parallel="tests">
+    <classes>
+      <class name="Testscripts.ValidateNavigationBar">
+        <methods>
+          <include name="Mainpage"/>
+          <include name="teardown"/>
+          <include name="initialization"/>
+        </methods>
+      </class> <!-- Testscripts.ValidateNavigationBar -->
+    </classes>
+  </test> <!-- ValidateNavigationBar(failed) -->
+  <test thread-count="5" verbose="0" name="ValidateTitle(failed)" parallel="tests">
+    <classes>
+      <class name="Testscripts.ValidateTitle">
+        <methods>
+          <include name="ValidateHeader"/>
+          <include name="teardown"/>
+          <include name="initialization"/>
+          <include name="ValidateTitle"/>
+        </methods>
+      </class> <!-- Testscripts.ValidateTitle -->
+    </classes>
+  </test> <!-- ValidateTitle(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
